@@ -22,7 +22,7 @@ Text classification on the famous Imdb dataset on Kaggle.
 
 Also **[this](https://www.kaggle.com/c/word2vec-nlp-tutorial#part-3-more-fun-with-word-vectors)** tutorial on Kaggle follows the same averaged w2v approach.
 
-**[This ](https://stackoverflow.com/questions/29760935/how-to-get-vector-for-a-sentence-from-the-word2vec-of-tokens-in-sentence)** discussion on SO also focusses on the same issue.
+**[This ](https://stackoverflow.com/questions/29760935/how-to-get-vector-for-a-sentence-from-the-word2vec-of-tokens-in-sentence)** discussion on SO also focusses on the same issue.**(MUST READ)**
 
 **Note that since dataset is small the peroformance of neural net ,DL based approaches and BOW approach is comparable.**
 

@@ -18,7 +18,7 @@ Text classification on the famous Imdb dataset on Kaggle.
 
 **3 )** Lastly I have used the **Word2Vec** approach. I have implemented them through the **Gensim** library and then **averaged the word vectors to get a embedding or a feature vector a particular document**.
 
-**Can also try Doc2Vec** but that sometimes work inferior to averaged word vectors.
+**Can also try Doc2Vec** but that sometimes work inferior to averaged word vectors as mentioned **[here](https://datascience.stackexchange.com/questions/9826/can-we-compare-a-word2vec-vector-with-a-doc2vec-vector)**.
 
 **Note that since dataset is small the peroformance of neural net ,DL based approaches and BOW approach is comparable.**
 

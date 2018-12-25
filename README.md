@@ -16,5 +16,9 @@ Text classification on the famous Imdb dataset on Kaggle.
 
 **2 )** The second approach is the traditional **Bag-of-Words approach with Tfidf values in the Document-Term-Matrix ( DTM )**. This gives an accuracy of **88.68% with the Logistic Regression algo**. 
 
+**3 )** Lastly I have used the **Word2Vec** approach. I have implemented them through the **Gensim** library and then **avergaed the word vectors to get a embedding or a feature vector a particular document**.
+
+**Can also try Doc2Vec** but that sometimes work inferior to averaged word vectors.
+
 **Note that since dataset is small the peroformance of neural net and BOW approach is comparable.**
 

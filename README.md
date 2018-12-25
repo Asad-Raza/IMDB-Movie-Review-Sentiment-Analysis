@@ -10,7 +10,7 @@
 
 Text classification on the famous Imdb dataset on Kaggle.
 
-**I have used different approaches:- **
+**I have used different approaches:-**
 
 **1 )** The first approach used is by creating **Word Embeddings in Keras** using the Embedding layer and training a neural network. The accuracy using this approach is **89.04% after training for 5 epochs.**
 

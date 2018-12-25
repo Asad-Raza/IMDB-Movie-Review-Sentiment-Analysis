@@ -5,7 +5,7 @@
      
  */
 
-# IMDB-Movie-Review-using-Word-Embeddings
+# IMDB-Movie-Review-Sentiment-Analysis
 
 
 Text classification on the famous Imdb dataset on Kaggle.
